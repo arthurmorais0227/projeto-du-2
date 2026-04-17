@@ -18,7 +18,7 @@ export default function ContatoScreen() {
 
       <TouchableOpacity
         style={styles.item}
-        onPress={() => Linking.openURL('https://github.com/arthurmorais0227/projeto_du')}
+        onPress={() => Linking.openURL('https://github.com/arthurmorais0227/projeto-du-2')}
       >
         <Ionicons name="logo-github" size={22} color="#b5dafe" />
         <Text style={styles.itemText}>github.com/arthurmorais0227/projeto_du</Text>
@@ -59,9 +59,12 @@ const styles = StyleSheet.create({
     padding: 14,
     width: '100%',
     marginBottom: 12,
+    flexWrap: 'wrap',
   },
   itemText: {
     color: '#ddd',
     fontSize: 15,
+    flex: 1,
+    flexWrap: 'wrap',
   },
 });
