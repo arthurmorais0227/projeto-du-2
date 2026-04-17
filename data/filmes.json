@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nome": "Amor a flor da pele",
+    "descricao": "Um casal que se conhece através do desconhecimento de seus conjuges... O amor mora nos pequenos detalhes e naquilo que podemos levar apósa morte.",
+    "imagem": "https://alternativemovieposters.com/wp-content/uploads/2019/08/joekim_moodforlove.jpg",
+    "genero": "Romance / Drama"
+  },
+  {
+    "id": 2,
+    "nome": "O Poderoso Chefão",
+    "descricao": "A saga da família Corleone, uma poderosa família da máfia italiana nos Estados Unidos.",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPgdhURPBpk_oPwP37XLgkRUNlnUwIvsyxgA&s",
+    "genero": "Drama / Crime"
+  },
+  {
+    "id": 3,
+    "nome": "Coringa",
+    "descricao": "Arthur Fleck é um comediante fracassado que gradualmente enlouquece e se torna o vilão Coringa.",
+    "imagem": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "genero": "Drama / Suspense"
+  },
+  {
+    "id": 4,
+    "nome": "Uma Mulher sobbre Influência",
+    "descricao": "O filme acompanha a vida de Mabel Longhetti, uma dona de casa que luta contra o alcoolismo e os desafios de manter sua família unida.",
+    "imagem": "https://m.media-amazon.com/images/I/61tSgolkFzL._AC_UF894,1000_QL80_.jpg",
+    "genero": "Drama / Suspense"
+  },
+  {
+    "id": 5,
+    "nome": "Parasita",
+    "descricao": "Uma família pobre se infiltra na vida de uma família rica com consequências inesperadas e violentas.",
+    "imagem": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "genero": "Thriller / Drama"
+  }
+]

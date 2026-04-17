@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nome": "Stranger Things",
+    "descricao": "Um grupo de amigos enfrenta acontecimentos misteriosos e sobrenaturais em uma pequena cidade dos anos 80.",
+    "imagem": "https://posterspy.com/wp-content/uploads/2023/01/FjkiF9HXoAAlAjF.jpg",
+    "categoria": "Ficção Científica / Terror"
+  },
+  {
+    "id": 2,
+    "nome": "Breaking Bad",
+    "descricao": "Um professor de química com câncer terminal se torna um fabricante de metanfetamina para garantir o futuro da família.",
+    "imagem": "https://stallonezone.com/zone/2023/z091123breakingbad_aurelio_lorenzo.png",
+    "categoria": "Drama / Crime"
+  },
+  {
+    "id": 3,
+    "nome": "The Last of Us",
+    "descricao": "Em um mundo pós-apocalíptico dominado por fungos, um contrabandista protege uma jovem imune à infecção.",
+    "imagem": "https://posterspy.com/wp-content/uploads/2025/05/THE-LAST-OF-US_POSTER_s2_v1.jpg_GIALLO.jpg",
+    "categoria": "Drama / Ação"
+  },
+  {
+    "id": 4,
+    "nome": "Dark",
+    "descricao": "Quatro famílias interconectadas em uma cidade alemã descobrem uma conspiração de viagem no tempo que abrange várias gerações.",
+    "imagem": "https://alternativemovieposters.com/wp-content/uploads/2020/04/lisanti_dark1.jpg",
+    "categoria": "Ficção Científica / Mistério"
+  },
+  {
+    "id": 5,
+    "nome": "Peaky Blinders",
+    "descricao": "A saga da família Shelby, um clã criminoso de Birmingham no pós-guerra, liderado pelo astuto Tommy Shelby.",
+    "imagem": "https://posterspy.com/wp-content/uploads/2023/05/IMG_02sasasa27.jpg",
+    "categoria": "Drama / Crime"
+  }
+]
